@@ -71,7 +71,7 @@ import os
 
 app = Flask(__name__)
 
-MODEL_PATH = r"C:\Users\makam\OneDrive\Desktop\Fab\microservices\global_model_updator\models\global_model.h5"
+MODEL_PATH = r"C:\Users\makam\OneDrive\Desktop\Fab\microservices\global_model_updater\models\global_model.h5"
 
 def convert_to_serializable(obj):
     if isinstance(obj, list):
