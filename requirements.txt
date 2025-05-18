@@ -1,0 +1,7 @@
+flask
+pandas
+tensorflow
+numpy
+shap
+requests
+scikit-learn
